@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![@anushcodes's Holopin badges](https://holopin.me/anushcodes)](https://holopin.io/@anushcodes)
 <!--
 **anushcodes/anushcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
